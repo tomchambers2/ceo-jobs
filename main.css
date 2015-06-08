@@ -1,0 +1,32 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	text-transform: uppercase;
+	margin-top: 90px;
+	margin-bottom: 60px;
+}
+
+.background-video {
+	width: 100%;
+}
+
+.letter {
+	border: 2px solid black;
+	width: 60%;
+	margin: auto;
+	padding: 100px 40px 40px 40px;
+	box-shadow: 5px 5px 0px #aaa;
+	margin-bottom: 60px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 22px;
+	padding: 8px;
+}
